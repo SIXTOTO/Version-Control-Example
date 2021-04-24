@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\myUnityProjects\Version Control" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ChallengeTest.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Version Control.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\yiuch\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\yiuch\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Version Control.-242000982.00" t="ExcludeRecursive" />
+  </component>
+</project>
